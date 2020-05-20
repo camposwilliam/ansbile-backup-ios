@@ -1,0 +1,12 @@
+---
+
+- name: Network backup Playbook
+  connection: network_cli
+  gather_facts: false
+  hosts: switches
+  tasks:
+
+    - name: Routers Backup
+      ios_config:
+        backup: yes
+
