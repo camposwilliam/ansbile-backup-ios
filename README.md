@@ -1,9 +1,9 @@
-instalar ansiblie:
-
+Instalação do Ansible conforme site oficial:
 https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
+ 
+Instalar PIP python:
+https://pip.pypa.io/en/stable/installing/
 
-instalar pip.py
+Instalar ferramente de conexão paramiko:
+http://www.paramiko.org/installing.html
 
-instalar paramiko
-
-configurar arquivos de hosts
